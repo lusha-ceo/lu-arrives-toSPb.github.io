@@ -1,0 +1,27 @@
+.first-page{
+
+	width: responsive; height: 320em;
+	background-color: skyblue; color: whitesmoke;
+}
+
+.first-page-words{
+	text-align: center;
+/*	margin-top: 10px;*/
+
+}
+
+.first-map{ margin: 28px ; }
+.second-map{ margin: 28px ; }
+.third-map{margin: 28px ;}
+.fourth-map{margin: 28px ;}
+.fifth-map{margin: 28px ;}
+.sixth-map{margin: 28px ;}
+.eighth-map{margin: 28px ;}
+.seventh-map{margin: 28px ;}
+
+#p-1{
+	color: skyblue;
+}
+#txt{
+	text-align: center;
+}
